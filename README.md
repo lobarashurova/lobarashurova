@@ -37,8 +37,7 @@ Check out my repositories for more exciting projects!
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
-    📧 Email: your.email@example.com
-    💼 LinkedIn: Your LinkedIn Profile
-    🐦 Twitter: @your_twitter_handle
+    📧 Email: lobarashurova06@gmail.com
+    💼 LinkedIn: [Lobar Ashurova](www.linkedin.com/in/lobar-ashurova-9a053b259)
 
 Let's create something extraordinary together!
