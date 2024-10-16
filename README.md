@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lobarashurova" alt="lobarashurova" /></a> </p>
 
-- 🔭 I’m currently working on **Girls care project**
+- 🔭 I’m currently working on **Slon Asia online shop project**
 
 - 🌱 I’m currently learning **Ios programming**
 
 - 👯 I’m looking to collaborate on **Beam**
-
-- 🤝 I’m looking for help with **Girls project**
 
 - 📝 I regularly write articles on [https://medium.com/@lobarashurova06](https://medium.com/@lobarashurova06)
 
