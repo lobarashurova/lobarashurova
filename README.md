@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Ios programming**
 
-- 👯 I’m looking to collaborate on **Beam**
 
 - 📝 I regularly write articles on [https://medium.com/@lobarashurova06](https://medium.com/@lobarashurova06)
 
